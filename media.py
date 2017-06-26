@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import webbrowser
 
 '''class Movie() is used by movies.py to call functions,
